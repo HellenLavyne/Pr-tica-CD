@@ -1,1 +1,1 @@
-# Pr-tica-CD
+# pratica-cd
